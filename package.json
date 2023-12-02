@@ -8,6 +8,7 @@
     "url": "https://github.com/sweetim/ayu-modern",
     "type": "git"
   },
+  "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -21,7 +22,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "tim-ayu",
+        "label": "Ayu Modern",
         "uiTheme": "vs-dark",
         "path": "./themes/tim-ayu-color-theme.json"
       }
