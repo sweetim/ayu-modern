@@ -3,12 +3,21 @@
   "displayName": "tim-ayu",
   "description": "the color theme that makes your eyes feel comfortable",
   "version": "0.0.1",
+  "publisher": "timx",
+  "repository": {
+    "url": "https://github.com/sweetim/tim-ayu",
+    "type": "git"
+  },
   "engines": {
     "vscode": "^1.84.0"
   },
   "categories": [
     "Themes"
   ],
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
   "contributes": {
     "themes": [
       {

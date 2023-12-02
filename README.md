@@ -1,3 +1,3 @@
-# tim-ayu README
+# tim-ayu
 
-the color theme that makes your eyes feel comfortable
+a VSCode color theme that makes your eyes feel comfortable
