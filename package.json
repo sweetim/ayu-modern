@@ -1,0 +1,21 @@
+{
+  "name": "tim-ayu",
+  "displayName": "tim-ayu",
+  "description": "the color theme that makes your eyes feel comfortable",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "tim-ayu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tim-ayu-color-theme.json"
+      }
+    ]
+  }
+}
