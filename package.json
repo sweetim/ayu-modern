@@ -24,7 +24,7 @@
       {
         "label": "Ayu Modern",
         "uiTheme": "vs-dark",
-        "path": "./themes/tim-ayu-color-theme.json"
+        "path": "./themes/ayu-modern-color-theme.json"
       }
     ]
   }

@@ -1,9 +1,10 @@
-# Change Log
+# Ayu Modern for VSCode
 
-All notable changes to the "tim-ayu" extension will be documented in this file.
+source from [https://github.com/sweetim/ayu-modern](https://github.com/sweetim/ayu-modern)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## v0.1.3
 
-## [Unreleased]
+`2023-12-05`
 
-- Initial release
+- updated menu separator color to `#333`
+- updated focus border color to `#555`
